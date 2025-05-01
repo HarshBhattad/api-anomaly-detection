@@ -26,7 +26,7 @@ API-Anomaly-Detection/
 ├── master_anomalies.csv            # Final combined anomaly report  
 ├── requirements.txt                # Python dependencies  
 ├── README.md                       # Project overview and documentation  
-└── plots/                          # (Optional) Output visualizations  
+ 
 
 ---
 
@@ -103,7 +103,7 @@ jupyter notebook api_anomaly_detection.ipynb
 
 **Harsh Bhattad**  
 Master’s in Systems Analytics, Stevens Institute of Technology  
-📧 hbhattad@stevens.edu  
+📧 harshbhattad007@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/harsh-bhattad)
 
 ---
