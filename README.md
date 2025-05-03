@@ -21,7 +21,8 @@ The goal is to catch failures that go unnoticed in traditional monitoring — su
 
 ## 📁 Folder Structure
 
-API-Anomaly-Detection/
+API-Anomaly-Detection
+
 ├── api_anomaly_detection.ipynb     # Main notebook with full pipeline  
 ├── master_anomalies.csv            # Final combined anomaly report  
 ├── requirements.txt                # Python dependencies  
