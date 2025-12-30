@@ -1,4 +1,4 @@
-# 🚨 Lie Detector for APIs - Anomaly Detection using Machine Learning & Time Series Forecasting
+# 🚨 Lie Detector for APIs - API Anomaly Detection using Machine Learning & Time Series Forecasting
 
 This project simulates a real-world anomaly detection pipeline for API monitoring. It uses a hybrid approach combining unsupervised machine learning (Isolation Forest) and time-series forecasting (Prophet) to detect silent failures, traffic anomalies, and abnormal latency patterns across a large-scale synthetic API log dataset.
 
